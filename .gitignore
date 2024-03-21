@@ -1,0 +1,10 @@
+UniversityManagement/.vs/
+UniversityManagement/UniversityManagementApi/bin/
+UniversityManagement/UniversityManagementApi/obj/
+UniversityManagement/UniversityManagementApi/logs/
+UniversityManagement/UniversityApi.xUnitTest/bin/
+UniversityManagement/UniversityApi.xUnitTest/obj/
+UniversityManagement/UniversityApi.NUnitTest/bin/
+UniversityManagement/UniversityApi.NUnitTest/obj/
+UniversityManagement/UniversityApi.MSUnitTest/bin/
+UniversityManagement/UniversityApi.MSUnitTest/obj/
